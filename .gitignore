@@ -1,0 +1,7 @@
+/.dir-locals.el
+/.editorconfig
+/.gdbinit
+/.gdbinit.tmpl-riscv
+/.vscode
+/fs.img
+/kernel
